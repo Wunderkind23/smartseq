@@ -7,7 +7,7 @@ import { RxHamburgerMenu } from "react-icons/rx";
 
 const Navbar = () => {
   return (
-    <div className='w-full px-16 h-[100px] flex items-center justify-between text-white border border-red-500'>
+    <div className='w-full px-16 h-[100px] flex items-center justify-between text-white'>
         <nav className='flex items-center'>
         <div className='w-[120px] lg:w-[150px]'>
             <img src={logo1} />

@@ -8,7 +8,7 @@ export const blogPosts = [
     {
         image: logo3,
         category: "MEDIA SEO",
-        title: "Fresh startup ideas for your digital business",
+        title: "Fresh startup ideas for your digital business growth and success",
         date: "Apr 21, 2020",
         comments: "0 Comments",
       },

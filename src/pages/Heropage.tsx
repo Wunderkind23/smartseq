@@ -8,7 +8,7 @@ const Heropage = () => {
     <div className="min-h-screen bg-cover bg-center bg-no-repeat"
     style={{ backgroundImage: `url(${herologo})`}}>
         <Navbar/>
-        <div className='flex justify-center text-white border border-red-500'>
+        <div className='flex justify-center text-white'>
             <div className='w-[550px]'>
                 <h1 className='text-center font-bold sm:text-[3rem] text-[2rem] mt-[8rem]'>Turning Creative Ideas
                     into Success</h1>

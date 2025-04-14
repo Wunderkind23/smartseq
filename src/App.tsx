@@ -7,9 +7,9 @@ import Latestarticle from './components/Latestarticle'
 const App = () => {
   return (
     <div>
-      {/* <Heropage/> */}
+      <Heropage/>
       <Latestarticle/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   )
 }
