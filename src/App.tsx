@@ -4,6 +4,7 @@ import Latestarticle from './components/Latestarticle'
 import TestimonialSlider from './components/TestimonialSlide'
 import CounterSection from './components/CountSection'
 import BusinessIntro from './components/BusinessIntro'
+import SubscribeSection from './components/SubscribeSection'
 
 // type Props = {}
 
@@ -13,6 +14,7 @@ const App = () => {
       <Heropage/>
       <BusinessIntro/>
       <CounterSection/>
+      <SubscribeSection/>
       <TestimonialSlider/>
       <Latestarticle/>
       <Footer/>
