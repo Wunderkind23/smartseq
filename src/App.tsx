@@ -1,4 +1,3 @@
-import React from 'react'
 import Heropage from './pages/Heropage'
 import Footer from './pages/Footer'
 import Latestarticle from './components/Latestarticle'
@@ -8,9 +7,9 @@ import Latestarticle from './components/Latestarticle'
 const App = () => {
   return (
     <div>
-      {/* <Heropage/> */}
-      {/* <Footer/> */}
+      <Heropage/>
       <Latestarticle/>
+      <Footer/>
     </div>
   )
 }
